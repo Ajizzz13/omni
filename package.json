@@ -1,0 +1,10 @@
+{
+  "name": "omniroute-service",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "omniroute"
+  },
+  "dependencies": {
+    "omniroute": "latest"
+  }
+}
