@@ -2,7 +2,7 @@
   "name": "omniroute-service",
   "version": "1.0.0",
   "scripts": {
-    "start": "omniroute"
+    "start": "omniroute --log"
   },
   "dependencies": {
     "omniroute": "latest"
